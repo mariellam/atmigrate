@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem will generate a CSV file containing the `.md` files available on a repo. 
 
 ## Development
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/atmigrate.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mariellam/atmigrate.
 
 ## License
 
